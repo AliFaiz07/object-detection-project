@@ -1,0 +1,12 @@
+Object Detection Project
+
+Overview-
+This project performs object detection on videos using the YOLOv3 model. The provided Python script processes each frame of a video, detects objects, and saves cropped images of these objects into a folder.
+
+Files-
+- `object_detection.py`: Main script for performing object detection on the video.
+- `yolov3.weights`: Pre-trained weights for YOLOv3.
+- `yolov3.cfg`: Configuration file for YOLOv3.
+- `coco.names`: File containing COCO class labels.
+- `cropped_objects/`: Directory where cropped object images are saved.
+
